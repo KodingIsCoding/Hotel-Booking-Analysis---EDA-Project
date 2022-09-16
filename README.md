@@ -62,9 +62,11 @@ to draw conclusion on the basis of the data set.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Future Work</h2>
-<li></li>
-<li></li>
-<li></li>
+Adding additional information like:
+<li>Events at the destination</li>
+<li>Cancellations</li>
+<li>Revenue per available room (required capacity for each destination)</li>
+<li>Feedback from tripadvisor, yelp, etc. as well as from hotel internal surveys</li>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
