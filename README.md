@@ -34,7 +34,7 @@
 
 <h2> :floppy_disk: Steps Involved</h2>
 
-● Imprting Important Libraries - Our main motive through this step was to import all the important libraries to help us explore the problem statement and perform EDA
+● Importing Important Libraries - Our main motive through this step was to import all the important libraries to help us explore the problem statement and perform EDA
 to draw conclusion on the basis of the data set.
 
 ● Understanding the data set and Null Values treatment 
@@ -69,7 +69,7 @@ to draw conclusion on the basis of the data set.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2>:floppy_disk: Conclusion</h2>
-<p>The dataset was not normally distributed and mostly it was right skewed. There is NO significant difference in the proportion of default payment across different education levels. But clients who have lower than high school level education tend to have default payment more. Married clients have a higher default payment rate than single or other marital status clients. People who have the payment delay for two months have a high ratio of default next month (October). In September, a quarter of customers who repay one month later have default payment next month in October. This situation does not exist in other months as almost no one repay one month later The developed models took into account all possible factors and data. This final chosen model would benefit the bank before they make any decisions against that customers.</p>
+<p></p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -83,12 +83,12 @@ Adil Khan | Data Science | Machine Learning | Deep Learning enthusiast
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
 <ul>
-  <li><p>KS Chart in Youtube </p>
-      <p>Available: https://www.youtube.com/watch?v=hNs9o5qiY8U&t=189s</p>
+  <li>
+      <p>Available:https://www.pegs.com/blog/how-hotels-can-counter-high-ota-cancellation-rates/</p>
   </li>
  
-  <li><p>ML classification Algorithms </p>
-      <p>Available: https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501</p>
+  <li><p>EDA </p>
+      <p>Available: https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15</p>
   </li>
  
 </ul>
