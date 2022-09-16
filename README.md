@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis---EDA-Project
+
 # Hotel Booking Analysis 
 <h><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2859475%2Fscreenshots%2F7551660%2Fia_0708_hotel-gifs_lt_trolley-2.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F7551660-Culture-Trip-hotel-gif-trolley&tbnid=W8czJ7BiJWP84M&vet=12ahUKEwixxYjG8Zj6AhVjyqACHT7oBxgQMygEegUIARDxAQ..i&docid=FAaSFJ0mRENedM&w=1600&h=1200&q=hotel%20gifs&ved=2ahUKEwixxYjG8Zj6AhVjyqACHT7oBxgQMygEegUIARDxAQ"></h>
 <h1 align="center"> Exploratory Data Analysis on Hotel Booking Analysis </h1>
