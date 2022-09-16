@@ -1,6 +1,6 @@
 # Hotel-Booking-Analysis---EDA-Project
 # Hotel Booking Analysis 
-<h><img src="https://www.linkedin.com/pulse/how-can-ai-help-people-make-better-decisions-sathish-chander" align="centre"></h>
+<h><img src="https://media.giphy.com/media/3orifgSVvLDe2hCtEY/giphy.gif" align="centre"></h>
 <h1 align="center"> Exploratory Data Analysis on Hotel Booking Analysis </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
