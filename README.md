@@ -69,7 +69,16 @@ to draw conclusion on the basis of the data set.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2>:floppy_disk: Conclusion</h2>
-<p></p>
+<li>Type A room is in most demand.</li>
+<li> Most bookings were made from online travel agents.</li>
+<li>Most customers are from Portugal.</li>
+<li>Most customers prefer the Bed and breakfast meal type.</li>
+<li> City hotels are more engaging and in demand. Hence, city hotels are more profitable.</li>
+<li>City hotels receive a higher number of guests than the resort hotels. However, the cancellation rate is more for city hotels.
+<li>City hotels have a higher number of repeat customers. However, the ratio of repeat customers is more for resort hotels as the city hotels receive a higher number of guests than the resort hotels. Non-refundable deposits tend to convert to a successful transaction.</li>
+<li>May is the busier and most profitable month for the hotels in 2017.</li>
+<li> On an average, May-June is the busier and most profitable month for the hotels. City hotels have received the most special requests. 1 number of requests is the
+highest. 1 car parking was needed for most of the guests.</li>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
