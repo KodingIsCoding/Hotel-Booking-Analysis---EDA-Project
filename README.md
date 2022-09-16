@@ -62,9 +62,9 @@ to draw conclusion on the basis of the data set.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Future Work</h2>
-<li>Models are not exhaustive. Other models could perform better.</li>
-<li>To Get more computational resources to tune XGBoost parameters.</li>
-<li>Acquire more customer data and useful features like customer income.</li>
+<li></li>
+<li></li>
+<li></li>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
